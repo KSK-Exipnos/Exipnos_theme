@@ -1,0 +1,33 @@
+// Center block
+@mixin center-block {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+// Column width with margin
+@mixin column-width($numberColumns: 3) {
+	width: map-get($columns, $numberColumns) - ( ( $columns__margin * ( $numberColumns - 1 ) ) / $numberColumns );
+}
+
+
+@mixin background-opacity($color, $opacity) {
+    background: $color__darkgray;
+    background: rgba($color__darkgray, .7);
+}
+
+
+// LINK - normal state
+@mixin link-normal {
+	transition-duration: .3s;
+	transition-timing-function: ease-in-out;
+}
+
+// HOVER - normal state
+@mixin link-hover {
+	transition-duration: .1s;
+	transition-timing-function: ease-in-out;
+}
+
+
+

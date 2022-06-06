@@ -1,0 +1,307 @@
+.main-navigation {
+	position: fixed;
+	top: 0;
+	z-index: 15;
+
+	display: flex;
+
+	width: 100%;
+	margin-top: 0;
+
+}
+
+.menu__shadow {
+	height: 100px;
+	width: 100%;
+	background: linear-gradient(to bottom, rgba($color__background-body, .9) 0%, rgba(0,0,0,0)  90%);	//background-image
+
+    z-index: -1;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-item a {
+    text-decoration: none;
+
+    &:focus {
+        outline: 0;
+    }
+}
+
+
+.menu-toggle {
+    padding: 2rem 2rem 0 0;
+
+    background: transparent;
+
+    font-weight: 600;
+    font-size: 1.5em;
+    text-align: right;
+
+    width: inherit;
+    z-index: 1000;
+    border: 0;
+    cursor: pointer;
+
+    flex-direction: row;
+    justify-content: flex-end;
+
+    svg {
+        height: .7em;
+        margin-right: .2em;
+    }
+}
+
+.menu-toggle {
+	color: $color__dark_gray;
+
+	transition-property: color;
+	transition-duration: .2s;
+	transition-timing-function: ease-in-out;
+
+	#Linie_2,
+	#Linie_3,
+	#Linie_4,
+	.custom-logo {
+		fill: $color__dark_gray;
+
+		transition-property: fill;
+		transition-duration: .2s;
+		transition-timing-function: ease-in-out;
+	}
+	
+	&:hover {
+		color: $color__light_gold;
+		
+		transition-property: color;
+		transition-duration: .2s;
+		transition-timing-function: ease-in-out;
+
+		#Linie_2,
+		#Linie_3,
+		#Linie_4,
+		.custom-logo {
+			fill: $color__light_gold;
+
+			transition-property: fill;
+			transition-duration: .2s;
+			transition-timing-function: ease-in-out;
+		}	
+	}
+}
+
+.toggled .menu-toggle,
+.menu-toggle.hasScrolled {
+color: $color__dark_gold;
+
+	transition-property: color;
+	transition-duration: .2s;
+	transition-timing-function: ease-in-out;
+
+	#Linie_2,
+	#Linie_3,
+	#Linie_4,	
+    .custom-logo {
+		fill: $color__dark_gold;
+
+		transition-property: fill;
+		transition-duration: .2s;
+		transition-timing-function: ease-in-out;
+	}
+    
+    &:hover {
+		color: $color__light_gold;
+		
+		transition-property: color;
+		transition-duration: .2s;
+		transition-timing-function: ease-in-out;
+
+		#Linie_2,
+		#Linie_3,
+		#Linie_4,
+		
+        .custom-logo {
+			fill: $color__light_gold;
+
+			transition-property: fill;
+			transition-duration: .2s;
+			transition-timing-function: ease-in-out;
+		}	
+	}
+
+}
+.toggled .custom-logo-link .custom-logo,
+.hasScrolled.custom-logo-link .custom-logo {
+    fill: $color__dark_gold;
+}
+
+
+
+.mobile__menu {
+    display: block;
+    position: absolute;
+    top: -50rem;
+    left: 0;
+    right: 0;
+
+    opacity: 0;
+    height: 100vh;
+
+    transition: top 1s ease-in-out, opacity .2s ease-in-out;
+
+    .menu {
+        display: flex;
+        align-items: flex-end;
+        flex-direction: column;
+        gap: 1rem;
+
+        padding: 6rem 4rem 4rem 0;
+
+        background-color: rgba($color__background-body, 0.9);
+    }
+
+    .menu__bg {
+        display: none;
+        height: 100%;
+        background-color: transparent;
+    }
+}
+
+.toggled .mobile__menu {
+    display: block;
+    top: 0;
+    opacity: 1;
+
+    transition: top .5s ease-in-out, opacity .25s ease-in-out .25s;
+}
+
+
+.desktop__menu {
+    display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+
+    .menu {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: center;
+
+        padding-top: .8rem;
+    }
+
+    .menu-item a {
+        color: $color__background-body;
+        
+        transition-property: color;
+        transition-duration: .2s;
+		transition-timing-function: ease-in-out;
+    }
+
+    .menu-item:hover a {
+        color: $color__dark-gold;
+        
+        transition-property: color;
+        transition-duration: .2s;
+		transition-timing-function: ease-in-out;
+    }
+
+    .hasScrolled {
+        
+
+        .custom-logo-link .custom-logo {
+            fill: $color__dark-gold;
+
+            &:hover {
+                fill: $color__light-gold;
+            }
+        }
+
+        .menu-item a {
+            color: $color__dark-gold;
+
+            transition-property: color;
+            transition-duration: .2s;
+            transition-timing-function: ease-in-out;
+        }
+
+        .menu-item:hover a {
+            color: $color__light-gold;
+
+            transition-property: color;
+            transition-duration: .2s;
+            transition-timing-function: ease-in-out;
+        }
+    }
+}
+
+.template-structure {
+	.site-branding {
+		display: none;
+	}
+
+    .menu-item a {
+        color: $color__dark-gold;
+	}
+
+	.menu-item:hover a {
+		color: $color__light-gold;
+	}
+
+	.custom-logo-link .custom-logo {
+		fill: $color__dark-gold;
+        
+        margin-top: 1.8rem;
+	}
+
+	.menu-toggle {
+		color: $color__dark-gold;
+		
+		#Linie_2,
+		#Linie_3,
+		#Linie_4 {
+			fill: $color__dark-gold;
+		}
+	}
+}
+
+
+
+
+@media screen and (min-width: 900px) {
+
+    button {
+        display: none;
+    }
+
+    .menu__shadow {
+        position: absolute;
+        top: 0;
+    }
+	
+    .mobile__menu {
+        display: none;
+        gap: .5rem;
+    }
+    
+    .desktop__menu {
+        display: block;
+        
+        .menu {
+            gap: .8rem;
+        }
+    }
+
+    .template-structure {
+        .custom-logo-link .custom-logo {
+            fill: $color__dark-gold;
+            
+            margin-top: 0;
+        }
+    }
+}

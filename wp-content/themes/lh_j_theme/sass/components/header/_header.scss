@@ -1,0 +1,93 @@
+.home .main-navigation .custom-logo-link {
+    opacity: 0;
+    display: none;
+}
+
+
+.custom-logo-link {
+    position: static;
+    width: 100%;
+    max-width: 200px;
+
+    height: 100%;
+    align-self: flex-end;
+
+    transform: none;
+    z-index: 1;
+    
+        .custom-logo {
+            fill: $color__dark-gray;
+            scale: 1;
+            margin: 0 2em 0 2em;
+            cursor: pointer;
+            // transition logo hover
+            //transition: fill .2s ease-in-out, scale .2s ease-in-out;
+            transition-property: fill, scale;
+            @include link-normal;
+            
+            &:hover {
+                fill: $color__light-gold;
+                scale: 1.02;
+                // transition logo hover 
+                //transition: fill .1s ease-in-out, scale .1s ease-in-out;
+                transition-property: fill, scale;
+                @include link-hover;
+            }
+        }
+
+}
+
+
+// logo color for mobile menu
+.toggled {
+    .custom-logo-link {
+        z-index: 999;
+        
+        .custom-logo {
+            fill: $color__dark-gold;
+            // tansition color change on mobile opening
+            //transition: fill .2s ease-in-out;
+            transition-property: fill;
+            @include link-normal;
+            
+            &:hover {
+                fill: $color__light-gold;
+                scale: 1;
+                // transition mobile open hover
+                //transition: fill .1s ease-in-out;
+                transition-property: fill;
+                @include link-normal;
+            }
+        }
+
+
+    }
+}
+
+
+
+
+
+
+    .site-branding .custom-logo-link {
+        position: absolute;
+        top: 45%;
+        left: 50%;
+        
+        width: 100%;
+        max-width: 70%;
+        height: inherit;
+
+        transform: translate(-50%, -50%);
+
+    }
+
+
+    @media screen and (min-width: 600px) {
+
+        .site-branding .custom-logo-link {
+            max-width: 400px;
+        }
+        
+    
+    }

@@ -1,0 +1,1886 @@
+# Translation of Plugins - WP DSGVO Tools (GDPR) - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - WP DSGVO Tools (GDPR) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-07 21:59:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - WP DSGVO Tools (GDPR) - Stable (latest release)\n"
+
+#: includes/integrations/embeddings/facebook-feed/page.php:37
+#: includes/integrations/embeddings/gmaps/page.php:37
+#: includes/integrations/embeddings/instagram/page.php:37
+#: includes/integrations/embeddings/openstreetmap/page.php:37
+#: includes/integrations/embeddings/soundcloud/page.php:37
+#: includes/integrations/embeddings/twitter/page.php:36
+#: includes/integrations/embeddings/vimeo/page.php:37
+#: includes/integrations/embeddings/youtube/page.php:37
+msgid "Shortcode to (manually) block content of "
+msgstr "Shortcode zum (manuellen) Blockieren von "
+
+#: admin/tabs/v3/common-settings/page.php:177
+msgid "Shortcode to (manually) block content"
+msgstr "Shotcode zum (manuellen) Blockieren von Inhalten"
+
+#: admin/tabs/v3/common-settings/page.php:231
+msgid "Title"
+msgstr "Titel"
+
+#: admin/tabs/v3/webinars/page.php:31
+msgid "Motto: One step closer to the legally perfect website every week!"
+msgstr "Motto: Woche für Woche einen Schritt näher zur rechtlich perfekten Website!"
+
+#: admin/tabs/v3/webinars/page.php:37
+msgid "Content"
+msgstr "Inhalt"
+
+#: admin/tabs/v3/webinars/page.php:42
+msgid "Completion of purchase"
+msgstr "Kaufabschluss"
+
+#: admin/tabs/v3/webinars/page.php:43
+msgid "Payment services"
+msgstr "Zahlungsdienste"
+
+#: admin/tabs/v3/webinars/page.php:44
+msgid "Shipping services"
+msgstr "Versanddienste"
+
+#: admin/tabs/v3/webinars/page.php:45
+msgid "Warehouse services"
+msgstr "Lagerdienste"
+
+#: admin/tabs/v3/webinars/page.php:47
+msgid "Accounting"
+msgstr "Buchhaltung"
+
+#: admin/tabs/v3/webinars/page.php:48
+msgid "Tax advice"
+msgstr "Steuerberatung"
+
+#: admin/tabs/v3/webinars/page.php:49
+msgid "Debt collection"
+msgstr "Inkasso"
+
+#: admin/tabs/v3/webinars/page.php:52
+msgid "Consent & information"
+msgstr "Einwilligung & Information"
+
+#: admin/tabs/v3/webinars/page.php:56
+msgid "Deletion"
+msgstr "Löschung"
+
+#: admin/tabs/v3/webinars/page.php:63
+msgid "Dates"
+msgstr "Termine"
+
+#: admin/tabs/v3/webinars/page.php:46
+msgid "Customer data"
+msgstr "Kundendaten"
+
+#: admin/tabs/v3/webinars/page.php:50
+msgid "Warranty / product liability / compensation"
+msgstr "Gewährleistung/Produkthaftung/Schadenersatz"
+
+#: admin/tabs/v3/operator/page.php:138 public/shortcodes/imprint.php:63
+msgid "Supervisory authority"
+msgstr "Aufsichtsbehörde"
+
+#: admin/tabs/v3/operator/page.php:140
+msgid "The full name of the supervisory authority."
+msgstr "Der vollständige Name der Aufsichtsbehörde."
+
+#: admin/tabs/v3/operator/page.php:146 public/shortcodes/imprint.php:60
+msgid "Representative person"
+msgstr "Vertreter"
+
+#: admin/tabs/v3/operator/page.php:148
+msgid "The full name of the representative person."
+msgstr "Der vollständige Name des Vertreters."
+
+#: admin/base.php:94
+msgid "Next dates"
+msgstr "Nächste Termine"
+
+#: admin/tabs/v3/webinars/page.php:15
+msgid "Free webinars on websites, web shops &amp; law"
+msgstr "Kostenlose Webinare zu Websites, Webshops und Recht"
+
+#: includes/class-sp-dsgvo-constants.php:426
+msgid "I connect it to an server of an agency"
+msgstr "Ich verbinde es zum Server einer Agentur"
+
+#: includes/class-sp-dsgvo-cookie-category-api.php:34
+msgid "Additional Content"
+msgstr "Zusätzliche Inhalte"
+
+#: public/shortcodes/privacy-policy.php:363
+msgid "Tag Manager"
+msgstr "Tag Manager"
+
+#: public/shortcodes/subject-access-request/subject-access-request.php:54
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:59
+msgid "Website"
+msgstr "Website"
+
+#: includes/class-sp-dsgvo-constants.php:155
+msgid "Other"
+msgstr "Anderer"
+
+#: includes/class-sp-dsgvo-cookie-category-api.php:52
+msgid "Necessary Services"
+msgstr "Notwendige Dienste"
+
+#: includes/class-sp-dsgvo-constants.php:49
+msgid "Other Server"
+msgstr "Sonstiger Server"
+
+#: includes/class-sp-dsgvo-constants.php:145
+msgid "By own web/email server"
+msgstr "Über eigenen Web-/E-Mail-Server"
+
+#: admin/tabs/v3/operator/page.php:162 admin/tabs/v3/operator/page.php:168
+#: public/class-sp-dsgvo-public.php:363 public/class-sp-dsgvo-public.php:373
+#: public/class-sp-dsgvo-public.php:394
+msgid "Registered business address"
+msgstr "Firmensitz"
+
+#: admin/tabs/v3/operator/page.php:165 public/class-sp-dsgvo-public.php:383
+msgid "Club seat"
+msgstr "Vereinssitz"
+
+#: admin/tabs/v3/popup-notice/page.php:162
+msgid "We recommend to use a square image."
+msgstr "Wir empfehlen die Verwendung eines quadratischen Bilds."
+
+#: public/class-sp-dsgvo-public.php:852
+msgid "Local installation"
+msgstr "Lokale Installation"
+
+#: admin/tabs/v3/info/page.php:23
+msgid "2. NEW LEGAL POSITION"
+msgstr "2. NEUE RECHTSLAGE"
+
+#: admin/tabs/v3/info/page.php:29
+msgid "3. NEW OPTIONS"
+msgstr "3. NEUE OPTIONEN"
+
+#: admin/tabs/v3/info/page.php:11
+msgid "You need to take 10 minutes to read this text and to reconfigure WP DSGVO Tools (GDPR)."
+msgstr "Du musst dir 10 Minuten Zeit nehmen, um diesen Text zu lesen und um WP DSGVO Tools (GDPR) neu zu konfigurieren."
+
+#: admin/tabs/v3/info/page.php:35
+msgid "4. ALL IN ONE"
+msgstr "4. ALLES IN EINEM"
+
+#: includes/integrations/embeddings/facebook-feed/page.php:23
+#: includes/integrations/embeddings/gmaps/page.php:23
+#: includes/integrations/embeddings/instagram/page.php:23
+#: includes/integrations/embeddings/openstreetmap/page.php:23
+#: includes/integrations/embeddings/soundcloud/page.php:23
+#: includes/integrations/embeddings/twitter/page.php:23
+#: includes/integrations/embeddings/vimeo/page.php:23
+#: includes/integrations/embeddings/youtube/page.php:23
+#: includes/integrations/statistics/clicky/page.php:22
+#: includes/integrations/statistics/etracker/page.php:24
+#: includes/integrations/statistics/hotjar/page.php:26
+#: includes/integrations/statistics/matomo/page.php:23
+#: includes/integrations/statistics/mautic/page.php:23
+#: includes/integrations/statistics/piwik/page.php:24
+#: includes/integrations/statistics/wpstatistics/page.php:24
+#: includes/integrations/tagmanager/matomotagmanager/page.php:24
+#: includes/integrations/targeting/bingadsuet/page.php:26
+#: includes/integrations/targeting/criteo/page.php:26
+#: includes/integrations/targeting/gadsense/page.php:24
+#: includes/integrations/targeting/linkedinpixel/page.php:26
+msgid "Use %s"
+msgstr "%s verwenden"
+
+#: includes/integrations/statistics/clicky/page.php:30
+msgid "Site Id"
+msgstr "Website-ID"
+
+#: includes/integrations/statistics/clicky/page.php:40
+#: includes/integrations/statistics/etracker/page.php:42
+#: includes/integrations/statistics/googleanalytics/page.php:57
+#: includes/integrations/statistics/googletagmanager/page.php:44
+#: includes/integrations/tagmanager/googletagmanager/page.php:44
+#: includes/integrations/targeting/fbpixel/page.php:53
+#: includes/integrations/targeting/gadsense/page.php:51
+msgid "Use own tracking code"
+msgstr "Eigenen Tracking-Code verwenden"
+
+#: admin/tabs/v3/popup-notice/page.php:318
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: includes/class-sp-dsgvo-constants.php:107
+msgid "Cash"
+msgstr "Bar"
+
+#: includes/class-sp-dsgvo-constants.php:108
+msgid "Cash on delivery"
+msgstr "Nachnahme"
+
+#: includes/class-sp-dsgvo-constants.php:109
+msgid "Bank Transfer"
+msgstr "Banküberweisung"
+
+#: includes/class-sp-dsgvo-constants.php:165
+msgid "Albania"
+msgstr "Albanien"
+
+#: includes/class-sp-dsgvo-constants.php:173
+msgid "Argentina"
+msgstr "Argentinien"
+
+#: includes/class-sp-dsgvo-constants.php:176
+msgid "Australia"
+msgstr "Australien"
+
+#: includes/class-sp-dsgvo-constants.php:184
+msgid "Belgium"
+msgstr "Belgien"
+
+#: includes/class-sp-dsgvo-constants.php:195
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: includes/class-sp-dsgvo-constants.php:198
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+#: includes/class-sp-dsgvo-constants.php:203
+msgid "Canada"
+msgstr "Kanada"
+
+#: includes/class-sp-dsgvo-constants.php:218
+msgid "Croatia"
+msgstr "Kroatien"
+
+#: includes/class-sp-dsgvo-constants.php:221
+msgid "Cyprus"
+msgstr "Zypern"
+
+#: includes/class-sp-dsgvo-constants.php:222
+msgid "Czech Republic"
+msgstr "Tschechische Repuplik"
+
+#: includes/class-sp-dsgvo-constants.php:223
+msgid "Denmark"
+msgstr "Dänemark"
+
+#: includes/class-sp-dsgvo-constants.php:228
+msgid "Egypt"
+msgstr "Ägypten"
+
+#: includes/class-sp-dsgvo-constants.php:232
+msgid "Estonia"
+msgstr "Estland"
+
+#: includes/class-sp-dsgvo-constants.php:237
+msgid "Finland"
+msgstr "Finnland"
+
+#: includes/class-sp-dsgvo-constants.php:238
+msgid "France"
+msgstr "Frankreich"
+
+#: includes/class-sp-dsgvo-constants.php:248
+msgid "Greece"
+msgstr "Griechenland"
+
+#: includes/class-sp-dsgvo-constants.php:262
+msgid "Hungary"
+msgstr "Ungarn"
+
+#: includes/class-sp-dsgvo-constants.php:263
+msgid "Iceland"
+msgstr "Island"
+
+#: includes/class-sp-dsgvo-constants.php:264
+msgid "India"
+msgstr "Indien"
+
+#: includes/class-sp-dsgvo-constants.php:266
+msgid "Iran"
+msgstr "Iran"
+
+#: includes/class-sp-dsgvo-constants.php:267
+msgid "Iraq"
+msgstr "Irak"
+
+#: includes/class-sp-dsgvo-constants.php:268
+msgid "Ireland"
+msgstr "Irland"
+
+#: includes/class-sp-dsgvo-constants.php:271
+msgid "Italy"
+msgstr "Italien"
+
+#: includes/class-sp-dsgvo-constants.php:288
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: includes/class-sp-dsgvo-constants.php:290
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: includes/class-sp-dsgvo-constants.php:304
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: includes/class-sp-dsgvo-constants.php:317
+msgid "Netherlands"
+msgstr "Niederlande"
+
+#: includes/class-sp-dsgvo-constants.php:319
+msgid "New Zealand"
+msgstr "Neuseeland"
+
+#: includes/class-sp-dsgvo-constants.php:326
+msgid "North Korea"
+msgstr "Nordkorea"
+
+#: includes/class-sp-dsgvo-constants.php:327
+msgid "Norway"
+msgstr "Norwegen"
+
+#: includes/class-sp-dsgvo-constants.php:337
+msgid "Poland"
+msgstr "Polen"
+
+#: includes/class-sp-dsgvo-constants.php:342
+msgid "Romania"
+msgstr "Rumänien"
+
+#: includes/class-sp-dsgvo-constants.php:357
+msgid "Serbia"
+msgstr "Serbien"
+
+#: includes/class-sp-dsgvo-constants.php:361
+msgid "Slovakia"
+msgstr "Slowakei"
+
+#: includes/class-sp-dsgvo-constants.php:362
+msgid "Slovenia"
+msgstr "Slowenien"
+
+#: includes/class-sp-dsgvo-constants.php:365
+msgid "South Africa"
+msgstr "Südafrika"
+
+#: includes/class-sp-dsgvo-constants.php:367
+msgid "South Korea"
+msgstr "Südkorea"
+
+#: includes/class-sp-dsgvo-constants.php:369
+msgid "Spain"
+msgstr "Spanien"
+
+#: includes/class-sp-dsgvo-constants.php:375
+msgid "Sweden"
+msgstr "Schweden"
+
+#: includes/class-sp-dsgvo-constants.php:376
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: includes/class-sp-dsgvo-constants.php:388
+msgid "Turkey"
+msgstr "Türkei"
+
+#: includes/class-sp-dsgvo-constants.php:396
+msgid "United States (US)"
+msgstr "Vereinigte Staaten (US)"
+
+#: includes/class-sp-dsgvo-cookie-category-api.php:36
+msgid "Integration of additional information"
+msgstr "Einbindung zusätzlicher Informationen"
+
+#: includes/class-sp-dsgvo-cookie-category-api.php:42
+msgid "Personal support from our support team"
+msgstr "Persönliche Unterstützung durch unser Support-Team"
+
+#: includes/class-sp-dsgvo-cookie-category-api.php:48
+msgid "Support from our support team"
+msgstr "Unterstützung durch unser Support-Team"
+
+#: includes/integrations/targeting/fbpixel/page.php:26
+msgid "Use Facebook Pixel"
+msgstr "Facebook Pixel verwenden"
+
+#: includes/integrations/mailchimp/page.php:1
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: admin/tabs/v3/popup-notice/page.php:112
+msgid "Cookie version"
+msgstr "Cookie-Version"
+
+#: includes/class-sp-dsgvo-cookie-category-api.php:22
+msgid "Analysis / Statistics"
+msgstr "Analyse/Statistiken"
+
+#: includes/class-sp-dsgvo-cookie-category-api.php:24
+msgid "Anonymous evaluation for troubleshooting and further development"
+msgstr "Anonyme Auswertung zur Problembehandlung und Weiterentwicklung"
+
+#: includes/class-sp-dsgvo-cookie-category-api.php:28
+msgid "Targeting / Profiling / Ads"
+msgstr "Targeting/Profiling/Werbung"
+
+#: includes/class-sp-dsgvo-cookie-category-api.php:30
+msgid "Target group-specific information outside our website"
+msgstr "Zielgruppenspezifische Information außerhalb unserer Website"
+
+#: includes/class-sp-dsgvo-cookie-category-api.php:40
+msgid "Live Chat"
+msgstr "Live-Chat"
+
+#: includes/class-sp-dsgvo-cookie-category-api.php:46
+msgid "Chat Bots"
+msgstr "Chatbots"
+
+#: admin/tabs/v3/common-settings/page.php:294
+msgid "Date of Version"
+msgstr "Datum der Version"
+
+#: admin/tabs/v3/operator/page.php:188 admin/tabs/v3/operator/page.php:371
+#: admin/tabs/v3/operator/page.php:497
+msgid "ZIP code"
+msgstr "PLZ"
+
+#: admin/tabs/v3/operator/page.php:195 admin/tabs/v3/operator/page.php:378
+#: admin/tabs/v3/operator/page.php:504
+msgid "Location"
+msgstr "Ort"
+
+#: admin/tabs/v3/operator/page.php:222
+msgid "Privacy Shield"
+msgstr "Privacy Shield"
+
+#: admin/tabs/v3/operator/page.php:295 admin/tabs/v3/operator/page.php:418
+msgid "Yes, internal"
+msgstr "Ja, intern"
+
+#: admin/tabs/v3/operator/page.php:302 admin/tabs/v3/operator/page.php:425
+msgid "Yes, external"
+msgstr "Ja, extern"
+
+#: admin/tabs/v3/operator/page.php:309 admin/tabs/v3/operator/page.php:432
+msgid "No, we do not have"
+msgstr "Nein, haben wir nicht"
+
+#: admin/tabs/v3/operator/page.php:318
+msgid "Internal data security officer"
+msgstr "Interner Datenschutzbeauftragter"
+
+#: admin/tabs/v3/operator/page.php:346
+msgid "External data security officer"
+msgstr "Externer Datenschutzbeauftragter"
+
+#: admin/tabs/v3/operator/page.php:387 admin/tabs/v3/operator/page.php:513
+msgid "Country:"
+msgstr "Land:"
+
+#: admin/tabs/v3/operator/page.php:389 admin/tabs/v3/operator/page.php:515
+#: includes/class-sp-dsgvo-constants.php:177
+msgid "Austria"
+msgstr "Österreich"
+
+#: admin/tabs/v3/operator/page.php:390 admin/tabs/v3/operator/page.php:516
+#: includes/class-sp-dsgvo-constants.php:245
+msgid "Germany"
+msgstr "Deutschland"
+
+#: admin/tabs/v3/operator/page.php:476
+msgid "Company/First- and lastname"
+msgstr "Unternehmensname/Vor- und Nachname"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:167
+msgid "Notification settings"
+msgstr "Benachrichtigungseinstellungen"
+
+#: admin/tabs/v3/stats/class-sp-dsgvo-stats-tab.php:11
+msgid "Statistics"
+msgstr "Statistiken"
+
+#: admin/tabs/v3/operator/page.php:443
+msgid "Internal contact for privacy issues"
+msgstr "Interner Kontakt für Datenschutzfragen"
+
+#: admin/tabs/v3/operator/page.php:471
+msgid "External contact for privacy issues"
+msgstr "Externer Kontakt für Datenschutzfragen"
+
+#: admin/tabs/v3/operator/page.php:282
+msgid "Privacy Policy Basics"
+msgstr "Grundlagen zur Datenschutzerklärung"
+
+#: admin/tabs/v3/page-basics/page.php:79
+msgid "Storage life (days)"
+msgstr "Speicherdauer (in Tagen)"
+
+#: admin/tabs/v3/page-basics/page.php:241
+msgid "Forms"
+msgstr "Formulare"
+
+#: admin/tabs/v3/page-basics/page.php:252
+msgid "Contact form"
+msgstr "Kontaktformular"
+
+#: admin/tabs/v3/page-basics/page.php:258
+msgid "Application form"
+msgstr "Bewerbungsformular"
+
+#: admin/tabs/v3/page-basics/page.php:272
+msgid "Registration/Sign up form"
+msgstr "Registrierungsformular"
+
+#: admin/tabs/v3/page-basics/page.php:278
+msgid "Comments form"
+msgstr "Kommentarformular"
+
+#: admin/tabs/v3/page-basics/page.php:290
+msgid "Name and comment"
+msgstr "Name und Kommentar"
+
+#: admin/tabs/v3/page-basics/page.php:80
+msgid "e.g. 7"
+msgstr "z.&nbsp;B. 7"
+
+#: admin/tabs/v3/page-basics/page.php:105
+msgid "Use of a CDN Server/Provider"
+msgstr "Verwendung eines CDN-Servers/-Anbieters"
+
+#: admin/tabs/v3/page-basics/page.php:130
+msgid "Other CDN Provider"
+msgstr "Sonstiger CDN-Anbieter"
+
+#: admin/tabs/v3/page-basics/page.php:226
+msgid "Block Google Fonts"
+msgstr "Google Fonts blockieren"
+
+#: admin/tabs/v3/page-basics/page.php:60
+msgid "Server Basics"
+msgstr "Grundlagen zum Server"
+
+#: admin/tabs/v3/page-basics/class-sp-dsgvo-page-basics-tab.php:11
+msgid "Page Basics"
+msgstr "Grundlagen zur Seite"
+
+#: admin/tabs/v3/operator/page.php:159 public/class-sp-dsgvo-public.php:353
+msgid "Place of residence"
+msgstr "Wohnort"
+
+#: admin/tabs/v3/page-basics/page.php:265
+#: public/shortcodes/privacy-policy.php:225
+msgid "Promotional contest or game form"
+msgstr "Gewinnspielformular"
+
+#: admin/tabs/v3/webinars/page.php:55 public/class-sp-dsgvo-public.php:429
+#: public/class-sp-dsgvo-public.php:571
+msgid "Data protection"
+msgstr "Datenschutz"
+
+#: public/class-sp-dsgvo-public.php:194
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: public/class-sp-dsgvo-public.php:425 public/class-sp-dsgvo-public.php:567
+msgid "WP DSGVO Tools (GDPR) for Wordpress and WooCommerce."
+msgstr "WP DSGVO Tools (GDPR) für WordPress und WooCommerce."
+
+#: public/class-sp-dsgvo-public.php:430 public/class-sp-dsgvo-public.php:572
+msgid "Details"
+msgstr "Details"
+
+#: public/class-sp-dsgvo-public.php:736
+msgid "Back"
+msgstr "Zurück"
+
+#: public/class-sp-dsgvo-public.php:747
+msgid "Accept selection"
+msgstr "Auswahl akzeptieren"
+
+#: public/class-sp-dsgvo-public.php:750
+msgid "Accept nothing"
+msgstr "Nichts akzeptieren"
+
+#: public/class-sp-dsgvo-public.php:753
+msgid "Accept all"
+msgstr "Alles akzeptieren"
+
+#: public/class-sp-dsgvo-public.php:767
+msgid "Accept <br />selection"
+msgstr "Auswahl<br />akzeptieren"
+
+#: public/class-sp-dsgvo-public.php:772
+msgid "Accept <br />nothing"
+msgstr "Nichts<br />akzeptieren"
+
+#: public/class-sp-dsgvo-public.php:777
+msgid "Accept <br />all"
+msgstr "Alles<br />akzeptieren"
+
+#: public/class-sp-dsgvo-public.php:815
+msgid "Services"
+msgstr "Dienste"
+
+#: public/class-sp-dsgvo-public.php:858 public/class-sp-dsgvo-public.php:863
+msgid "All Details"
+msgstr "Alle Details"
+
+#: public/class-sp-dsgvo-public.php:1197
+msgid "Terms: "
+msgstr "AGB: "
+
+#: public/shortcodes/privacy-policy.php:29
+msgid "Responsible"
+msgstr "Verantwortlich"
+
+#: public/shortcodes/privacy-policy.php:108
+msgid "Data security officer"
+msgstr "Datenschutzbeauftragter"
+
+#: public/shortcodes/privacy-policy.php:137
+msgid "Responsible for privacy issues"
+msgstr "Verantwortlich für Datenschutzfragen"
+
+#: public/shortcodes/privacy-policy.php:215
+msgid "Contact Form"
+msgstr "Kontaktformular"
+
+#: public/shortcodes/privacy-policy.php:220
+msgid "Application Form"
+msgstr "Bewerbungsformular"
+
+#: public/shortcodes/privacy-policy.php:230
+msgid "Registration Form"
+msgstr "Registrierungsformular"
+
+#: public/shortcodes/privacy-policy.php:235
+msgid "Comments Form"
+msgstr "Kommentarformular"
+
+#: public/shortcodes/privacy-policy.php:253
+msgid "Security Services"
+msgstr "Sicherheitsdienste"
+
+#: public/shortcodes/privacy-policy.php:337
+msgid "Payments are processed via:"
+msgstr "Zahlungen werden abgewickelt mit:"
+
+#: public/shortcodes/privacy-policy.php:413
+msgid "Analysis Services"
+msgstr "Analysedienste"
+
+#: public/shortcodes/privacy-policy.php:471
+msgid "Right to object"
+msgstr "Widerspruchsrecht"
+
+#: public/shortcodes/privacy-policy.php:476
+msgid "Withdrawal"
+msgstr "Widerrufsrecht"
+
+#: public/shortcodes/privacy-policy.php:481
+msgid "Right to data subject"
+msgstr "Betroffenenrechte"
+
+#: public/class-sp-dsgvo-public.php:726
+msgid "Loading details"
+msgstr "Details werden geladen"
+
+#: public/class-sp-dsgvo-public.php:471
+msgid "Country Flag"
+msgstr "Länderflagge"
+
+#: public/class-sp-dsgvo-public.php:485 public/class-sp-dsgvo-public.php:508
+#: public/class-sp-dsgvo-public.php:533 public/class-sp-dsgvo-public.php:591
+#: public/class-sp-dsgvo-public.php:605 public/class-sp-dsgvo-public.php:628
+#: public/class-sp-dsgvo-public.php:653
+msgid "Country flag"
+msgstr "Länderflagge"
+
+#: public/shortcodes/privacy-policy.php:88
+#: public/shortcodes/privacy-policy.php:97
+#: public/shortcodes/privacy-policy.php:120
+#: public/shortcodes/privacy-policy.php:128
+msgid "attn."
+msgstr "z.&nbsp;Hd."
+
+#: public/shortcodes/privacy-policy.php:146
+msgid "Hosting"
+msgstr "Hosting"
+
+#: admin/tabs/v3/page-basics/page.php:96 admin/tabs/v3/page-basics/page.php:112
+#: public/shortcodes/privacy-policy.php:186
+#: public/shortcodes/privacy-policy.php:204
+msgid "CDN Provider"
+msgstr "CDN-Anbieter"
+
+#: public/shortcodes/privacy-policy.php:284
+msgid "Web Fonts"
+msgstr "Web-Schriften"
+
+#: public/shortcodes/privacy-policy.php:325
+msgid "Web Shop"
+msgstr "Webshop"
+
+#: public/shortcodes/imprint.php:32
+msgid "Company owner"
+msgstr "Inhaber des Unternehmens"
+
+#: public/shortcodes/imprint.php:85 public/shortcodes/imprint.php:102
+#: public/shortcodes/imprint.php:112
+msgid "Sales tax identification number"
+msgstr "Umsatzsteuer-Identifikationsnummer"
+
+#: public/shortcodes/imprint.php:99
+msgid "Register Court & Register Number"
+msgstr "Registergericht & Registernummer"
+
+#: admin/tabs/v3/operator/page.php:204 admin/tabs/v3/operator/page.php:329
+#: admin/tabs/v3/operator/page.php:396 admin/tabs/v3/operator/page.php:454
+#: admin/tabs/v3/operator/page.php:522 public/shortcodes/imprint.php:76
+msgid "Phone"
+msgstr "Telefonnummer"
+
+#: admin/tabs/v3/popup-notice/page.php:66
+#: admin/tabs/v3/popup-notice/page.php:89
+msgid "Day"
+msgstr "Tag"
+
+#: admin/tabs/v3/popup-notice/page.php:68
+#: admin/tabs/v3/popup-notice/page.php:91
+msgid "Week"
+msgstr "Woche"
+
+#: admin/base.php:157
+msgid "Upgrade to Premium"
+msgstr "Upgrade to Premium"
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:62
+#: public/class-sp-dsgvo-public.php:457 public/class-sp-dsgvo-public.php:577
+msgid "Imprint"
+msgstr "Impressum"
+
+#: admin/class-sp-dsgvo-admin.php:99
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/class-sp-dsgvo-admin.php:148
+msgid "Are you sure you want to dismiss this request?"
+msgstr "Sind Sie Sicher dass Sie die Anfrage abbrechen wollen?"
+
+#: admin/class-sp-dsgvo-admin.php:167
+msgid "Privacy settings user page"
+msgstr "Datenschutzeinstellungen Benutzer Seite"
+
+#: admin/class-sp-dsgvo-admin.php:168
+#: admin/tabs/v3/super-unsubscribe/page.php:61
+msgid "Delete request page"
+msgstr "Löschanfrage Seite"
+
+#: admin/class-sp-dsgvo-admin.php:169
+msgid "Terms page"
+msgstr "AGB Seite"
+
+#: admin/class-sp-dsgvo-admin.php:170
+msgid "Explicit permissions page"
+msgstr "Explizite Berechtigungen Seite"
+
+#: admin/class-sp-dsgvo-admin.php:171
+msgid "Opt Out page"
+msgstr "Opt Out Seite"
+
+#: admin/class-sp-dsgvo-admin.php:172
+#: admin/tabs/v3/common-settings/page.php:197
+msgid "Privacy policy page"
+msgstr "Datenschutz Seite"
+
+#: admin/class-sp-dsgvo-admin.php:173
+msgid "Subject access request page"
+msgstr "Datenauszug Seite"
+
+#: admin/class-sp-dsgvo-admin.php:174 admin/tabs/v3/operator/page.php:557
+msgid "Imprint page"
+msgstr "Impressum Seite"
+
+#: admin/tabs/v3/common-settings/class-sp-dsgvo-common-settings-activate-action.php:34
+#: admin/tabs/v3/common-settings/class-sp-dsgvo-common-settings-activate-action.php:57
+msgid "error during license activation: "
+msgstr "Fehler während der Aktivierung: "
+
+#: admin/tabs/v3/common-settings/class-sp-dsgvo-common-settings-activate-action.php:86
+msgid "error during license details: "
+msgstr "Fehler während der Lizenzabfrage: "
+
+#: admin/tabs/v3/common-settings/page.php:94
+#: admin/tabs/v3/embeddings/page.php:119
+#: admin/tabs/v3/subject-access-request/page.php:13
+#: admin/tabs/v3/super-unsubscribe/page.php:12
+msgid "Common Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: admin/tabs/v3/common-settings/page.php:26
+msgid "License"
+msgstr "Lizenz"
+
+#: admin/tabs/v3/common-settings/page.php:57
+msgid "Premium version has been activated"
+msgstr "Die Premium Edition ist aktiviert."
+
+#: admin/tabs/v3/common-settings/page.php:57
+msgid "Invalid or expired license."
+msgstr "Ungültige oder abgelaufene Lizenz."
+
+#: admin/tabs/v3/common-settings/page.php:60
+msgid "Blog version has been activated"
+msgstr "Die Blog Edition ist aktiviert."
+
+#: admin/tabs/v3/common-settings/page.php:60
+msgid "Invalid license."
+msgstr "Ungültige Lizenz."
+
+#: admin/tabs/v3/common-settings/page.php:66
+msgid "Activated on:"
+msgstr "Aktiviert am:"
+
+#: admin/tabs/v3/common-settings/page.php:73
+msgid "Valid to:"
+msgstr "Gültig bis:"
+
+#: admin/tabs/v3/common-settings/page.php:36
+msgid "Deactivate license"
+msgstr "Lizenz deaktivieren"
+
+#: admin/tabs/v3/common-settings/page.php:40
+msgid "Activating the license unlocks more features."
+msgstr "Aktivieren der Lizenz schaltet weitere Funktionen frei."
+
+#: admin/tabs/v3/common-settings/page.php:39
+msgid "Activate license"
+msgstr "Lizenz aktivieren"
+
+#: includes/helpers.php:386
+msgid "Click here to get a license."
+msgstr "Hier klicken um eine Lizenz anzufordern."
+
+#: admin/tabs/v3/operator/page.php:246
+msgid "VAT No.:"
+msgstr "USt. Id:"
+
+#: admin/tabs/v3/operator/page.php:67 public/shortcodes/imprint.php:98
+msgid "Shareholder"
+msgstr "Gesellschafter"
+
+#: public/shortcodes/privacy-policy.php:92
+#: public/shortcodes/privacy-policy.php:101
+#: public/shortcodes/privacy-policy.php:124
+#: public/shortcodes/privacy-policy.php:132
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: admin/tabs/v3/popup-notice/page.php:28
+msgid "Cookie Notice"
+msgstr "Cookie Notice"
+
+#: admin/tabs/v3/popup-notice/page.php:70
+#: admin/tabs/v3/popup-notice/page.php:73
+#: admin/tabs/v3/popup-notice/page.php:76
+#: admin/tabs/v3/popup-notice/page.php:93
+#: admin/tabs/v3/popup-notice/page.php:96
+#: admin/tabs/v3/popup-notice/page.php:99
+msgid "Month"
+msgstr "Monat"
+
+#: admin/tabs/v3/popup-notice/page.php:79
+#: admin/tabs/v3/popup-notice/page.php:102
+msgid "Year"
+msgstr "Jahr"
+
+#: admin/tabs/v3/popup-notice/page.php:171
+msgid "Upload image"
+msgstr "Bild uploaden"
+
+#: admin/tabs/v3/popup-notice/page.php:263
+msgid "Position:"
+msgstr "Position:"
+
+#: admin/tabs/v3/popup-notice/page.php:265
+msgid "On top"
+msgstr "Oben"
+
+#: admin/tabs/v3/popup-notice/page.php:268
+msgid "Bottom"
+msgstr "Unten"
+
+#: admin/tabs/v3/popup-notice/page.php:271
+msgid "Specifies the location where the cookie notice should be displayed."
+msgstr "Gibt die Position an wo die Cookie Notice angezeigt werden soll."
+
+#: admin/tabs/v3/popup-notice/page.php:276
+msgid "Animation"
+msgstr "Animation"
+
+#: admin/tabs/v3/popup-notice/page.php:278
+msgid "None"
+msgstr "Keine"
+
+#: admin/tabs/v3/popup-notice/page.php:281
+msgid "fade"
+msgstr "Ausgleiten"
+
+#: admin/tabs/v3/popup-notice/page.php:284
+msgid "hide"
+msgstr "Ausblenden"
+
+#: admin/tabs/v3/popup-notice/page.php:287
+msgid "Animation when accepting the cookie message."
+msgstr "Animation beim Akzeptieren der Cookie-Nachricht."
+
+#: admin/tabs/v3/popup-notice/page.php:291
+msgid "Font size"
+msgstr "Textgröße"
+
+#: admin/tabs/v3/popup-notice/page.php:201
+#: admin/tabs/v3/popup-notice/page.php:296
+#: admin/tabs/v3/popup-notice/page.php:394
+msgid "Default"
+msgstr "Standard"
+
+#: admin/tabs/v3/popup-notice/page.php:389
+msgid "Height of cookie notice"
+msgstr "Höhe der Cookie Notice"
+
+#: admin/tabs/gravity-forms/class-sp-dsgvo-gravity-forms-tab.php:10
+#: admin/tabs/gravity-forms/page.php:5
+msgid "Gravity Forms"
+msgstr "Gravity Forms"
+
+#: admin/tabs/gravity-forms/page.php:7
+msgid "With these settings the saving behavior of Gravity Forms can be configured."
+msgstr "Mit diesen Einstellungen kann das Speicherverhalten von Gravity Forms konfiguriert werden."
+
+#: admin/tabs/gravity-forms/page.php:14
+msgid "Do not save form data in the database"
+msgstr "Keine Formulardaten in der Datenbank speichern"
+
+#: admin/tabs/gravity-forms/page.php:18
+msgid "If activated, no data will be stored, but only sent by e-mail. (Note: This option overrides form-specific settings).)."
+msgstr "Wenn aktiviert, werden keine Daten gespeichert, sonder nur per Email versendet. (Anmerkung: Diese Option überschreibt formularspezfische Einstellungen)."
+
+#: admin/tabs/gravity-forms/page.php:21
+msgid "Do not save IP address and user agent in database"
+msgstr "Keine IP Addresse und User Agent speichern"
+
+#: admin/tabs/gravity-forms/page.php:25
+msgid "By default, if this checkbox is checked, this will be prevented from saving the IP address and user agent of the sender."
+msgstr "Standardmäßig speichert Gravity Forms die IP Adresse und den User Agent des Absenders. Wenn diese Checkbox aktiviert ist, wird dies verhindert."
+
+#: admin/tabs/gravity-forms/page.php:35
+msgid "Specific form settings"
+msgstr "Spezifische Formulareinstellungen"
+
+#: admin/tabs/gravity-forms/page.php:36
+msgid "For each Gravity Forms form, it can be subsequently defined for each field whether the data of the input field is stored in the database or not."
+msgstr "Für jedes Gravity Forms Formular kann nachfolgend pro Feld definiert werden, ob die Daten des Eingabefeldes in der Datenbank gespeichert werden oder nicht."
+
+#: admin/tabs/gravity-forms/page.php:47
+msgid "Nicht in der Datenbank speichern."
+msgstr "Nicht in der Datenbank speichern."
+
+#: admin/tabs/v3/common-settings/page.php:199
+#: admin/tabs/v3/operator/page.php:559
+#: admin/tabs/v3/subject-access-request/page.php:50
+#: admin/tabs/v3/super-unsubscribe/page.php:63
+msgid "Select"
+msgstr "Wählen"
+
+#: admin/tabs/v3/operator/page.php:569
+msgid "Create a page that uses the shortcode <code>[imprint]</code>."
+msgstr "Eine Seite erstellen die den Shortcode <code>[imprint]</code> verwendet."
+
+#: admin/tabs/v3/common-settings/page.php:214
+#: admin/tabs/v3/operator/page.php:571
+#: admin/tabs/v3/subject-access-request/page.php:65
+#: admin/tabs/v3/super-unsubscribe/page.php:76
+msgid "Create page"
+msgstr "Seite erstellen"
+
+#: admin/tabs/v3/operator/page.php:574
+msgid "Attention: The shortcode <code>[imprint]</code> was not found on the page you selected."
+msgstr "Achtung: Der Shortcode <code>[imprint]</code> wurde auf der von ihnen gewählten Seite nicht gefunden."
+
+#: admin/tabs/v3/common-settings/page.php:219
+#: admin/tabs/v3/common-settings/page.php:225
+#: admin/tabs/v3/operator/page.php:576 admin/tabs/v3/operator/page.php:581
+#: admin/tabs/v3/subject-access-request/page.php:70
+#: admin/tabs/v3/subject-access-request/page.php:74
+#: admin/tabs/v3/super-unsubscribe/page.php:81
+#: admin/tabs/v3/super-unsubscribe/page.php:85
+msgid "Edit page"
+msgstr "Seite bearbeiten"
+
+#: admin/tabs/integrations/class-sp-dsgvo-integrations-tab.php:10
+#: admin/tabs/integrations/page.php:1
+#: admin/tabs/v3/super-unsubscribe/page.php:100
+msgid "Integrations"
+msgstr "Integrationen"
+
+#: admin/tabs/integrations/page.php:15 admin/tabs/v3/embeddings/page.php:151
+#: admin/tabs/v3/stats/page.php:35 admin/tabs/v3/tagmanager/page.php:22
+#: admin/tabs/v3/targeting/page.php:20
+msgid "No integrations installed"
+msgstr "Keine Integrationen installiert"
+
+#: admin/tabs/v3/common-settings/page.php:212
+msgid "Create a page that uses the shortcode <code>[privacy_policy]</code>."
+msgstr "Eine Seite erstellen die den Shortcode <code>[privacy_policy]</code> verwendet."
+
+#: admin/tabs/v3/common-settings/page.php:217
+msgid "Attention: The shortcode <code>[privacy_policy]</code> was not found on the page you selected."
+msgstr "Achtung: Der Shortcode <code>[privacy_policy]</code> wurde auf der von ihnen gewählten Seite nicht gefunden."
+
+#: admin/tabs/v3/operator/page.php:322 admin/tabs/v3/operator/page.php:357
+#: admin/tabs/v3/operator/page.php:447 admin/tabs/v3/operator/page.php:483
+#: includes/class-sp-dsgvo-data-collecter.php:66
+#: includes/class-sp-dsgvo-data-collecter.php:71
+#: includes/class-sp-dsgvo-data-collecter.php:78
+#: includes/class-sp-dsgvo-data-collecter.php:132
+#: includes/class-sp-dsgvo-data-collecter.php:146
+#: includes/class-sp-dsgvo-data-collecter.php:169
+msgid "Name"
+msgstr "Name"
+
+#: templates/de_DE/emails/feedback.php:10
+#: templates/de_DE_formal/emails/feedback.php:10
+#: templates/en_EN/emails/feedback.php:10
+#: templates/en_GB/emails/feedback.php:10
+#: templates/en_US/emails/feedback.php:10
+msgid "Reason"
+msgstr "Grund"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:118
+#: admin/tabs/v3/super-unsubscribe/page.php:129
+#: admin/tabs/v3/super-unsubscribe/page.php:140
+#: admin/tabs/v3/super-unsubscribe/page.php:151
+#: admin/tabs/v3/super-unsubscribe/page.php:310
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:18
+msgid "Plugin installed"
+msgstr "Plugin installiert"
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:36
+#: admin/tabs/v3/subject-access-request/class-sp-dsgvo-subject-access-request-tab.php:10
+msgid "Subject Access Request"
+msgstr "Datenauszug"
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:41
+msgid "User privacy settings"
+msgstr "Datenschutzeinstellungen Benutzer Seite"
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:46
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:68
+msgid "Terms & Conditions"
+msgstr "AGB"
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:56
+msgid "Delete Request"
+msgstr "L&ouml;schanfrage"
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:75
+msgid "Opt-out"
+msgstr "Opt-out"
+
+#: admin/tabs/setup/class-sp-dsgvo-setup-tab.php:9 admin/tabs/setup/page.php:1
+msgid "Setup"
+msgstr "Setup"
+
+#: admin/tabs/v3/subject-access-request/page.php:144
+msgid "Subject Access Requests"
+msgstr "Datenauszugsanfrage"
+
+#: admin/tabs/v3/subject-access-request/page.php:22
+msgid "Automatic processing"
+msgstr "Automatisch Abarbeitung"
+
+#: admin/tabs/v3/subject-access-request/page.php:25
+#: admin/tabs/v3/super-unsubscribe/page.php:32
+msgid "none"
+msgstr "keine"
+
+#: admin/tabs/v3/subject-access-request/page.php:27
+msgid "day"
+msgstr "Tag"
+
+#: admin/tabs/v3/subject-access-request/page.php:29
+#: admin/tabs/v3/subject-access-request/page.php:31
+msgid "days"
+msgstr "Tage"
+
+#: admin/tabs/v3/subject-access-request/page.php:33
+msgid "weeks"
+msgstr "Wochen"
+
+#: admin/tabs/v3/subject-access-request/page.php:36
+msgid "Requests will be automatically processed after the set time and sent to the user."
+msgstr "Anfragen werden nach eingestellter Zeit automatisch bearbeitet und dem User gesendet."
+
+#: admin/tabs/v3/subject-access-request/page.php:57
+msgid "Specifies the page on which users have the option to request their data extract."
+msgstr "Gibt die Seite an auf der Benutzer die Möglichkeit haben ihren Datenauszug anzufordern."
+
+#: admin/tabs/v3/subject-access-request/page.php:153
+#: admin/tabs/v3/subject-access-request/page.php:217
+#: admin/tabs/v3/super-unsubscribe/page.php:258
+#: admin/tabs/v3/super-unsubscribe/page.php:284
+#: admin/tabs/v3/super-unsubscribe/page.php:347
+msgid "ID"
+msgstr "ID"
+
+#: admin/tabs/v3/subject-access-request/page.php:157
+#: admin/tabs/v3/subject-access-request/page.php:219
+#: admin/tabs/v3/subject-access-request/page.php:262
+#: admin/tabs/v3/super-unsubscribe/page.php:262
+#: admin/tabs/v3/super-unsubscribe/page.php:292
+#: admin/tabs/v3/super-unsubscribe/page.php:349
+#: admin/tabs/v3/super-unsubscribe/page.php:396
+#: public/shortcodes/subject-access-request/subject-access-request.php:28
+#: public/shortcodes/subject-access-request/subject-access-request.php:31
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:32
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:35
+msgid "First name"
+msgstr "Vorname"
+
+#: admin/tabs/v3/subject-access-request/page.php:159
+#: admin/tabs/v3/subject-access-request/page.php:220
+#: admin/tabs/v3/subject-access-request/page.php:269
+#: admin/tabs/v3/super-unsubscribe/page.php:264
+#: admin/tabs/v3/super-unsubscribe/page.php:296
+#: admin/tabs/v3/super-unsubscribe/page.php:350
+#: admin/tabs/v3/super-unsubscribe/page.php:403
+#: public/shortcodes/subject-access-request/subject-access-request.php:37
+#: public/shortcodes/subject-access-request/subject-access-request.php:40
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:42
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:45
+msgid "Last name"
+msgstr "Nachname"
+
+#: admin/tabs/v3/subject-access-request/page.php:161
+#: admin/tabs/v3/subject-access-request/page.php:222
+#: admin/tabs/v3/super-unsubscribe/page.php:266
+#: admin/tabs/v3/super-unsubscribe/page.php:300
+#: admin/tabs/v3/super-unsubscribe/page.php:352
+msgid "GDPR approval"
+msgstr "DSGVO Zustimmung"
+
+#: admin/tabs/v3/subject-access-request/page.php:163
+#: admin/tabs/v3/subject-access-request/page.php:192
+#: admin/tabs/v3/subject-access-request/page.php:223
+msgid "Run"
+msgstr "Ausführen"
+
+#: admin/tabs/v3/subject-access-request/page.php:166
+#: admin/tabs/v3/subject-access-request/page.php:225
+#: admin/tabs/v3/super-unsubscribe/page.php:273
+#: admin/tabs/v3/super-unsubscribe/page.php:319
+#: admin/tabs/v3/super-unsubscribe/page.php:356
+msgid "Dismiss"
+msgstr "Ablehnen"
+
+#: admin/tabs/v3/subject-access-request/page.php:208
+msgid "No open requests"
+msgstr "Keine offenen Anfragen vorhanden."
+
+#: admin/tabs/v3/subject-access-request/page.php:235
+msgid "Run all"
+msgstr "Alle ausführen"
+
+#: admin/tabs/v3/subject-access-request/page.php:244
+#: admin/tabs/v3/subject-access-request/page.php:294
+#: admin/tabs/v3/super-unsubscribe/page.php:377
+#: admin/tabs/v3/super-unsubscribe/page.php:428
+msgid "Add entry"
+msgstr "Eintrag hinzufügen"
+
+#: admin/tabs/v3/subject-access-request/page.php:283
+msgid "Run now"
+msgstr "Sofort ausführen"
+
+#: admin/tabs/v3/subject-access-request/page.php:289
+#: admin/tabs/v3/super-unsubscribe/page.php:423
+msgid "Show email"
+msgstr "Email anzeigen"
+
+#: admin/tabs/v3/super-unsubscribe/class-sp-dsgvo-super-unsubscribe-tab.php:9
+#: templates/de_DE/emails/super-unsubscribe.php:20
+#: templates/en_EN/emails/super-unsubscribe.php:20
+msgid "Delete request"
+msgstr "Löschanfrage"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:232
+msgid "Delete Requests"
+msgstr "Löschanfragen"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:233
+msgid "Here you will find all deletion requests that users have made on their site. With a click on \"delete now \" you delete all stored data of the user on their side including Plugins."
+msgstr "Hier finden sie alle Löschanfragen die User ihrer Seite gestellt haben. Mit einem klick auf \"Jetzt löschen\" löschen sie alle gespeicherten Daten des Users auf ihrer Seite inklusive Plugins."
+
+#: admin/tabs/v3/super-unsubscribe/page.php:25
+msgid "If enabled, delete requests are performed immediately."
+msgstr "Wenn aktiviert, werden Löschanfragen sofort durchgeführt."
+
+#: admin/tabs/v3/super-unsubscribe/page.php:29
+msgid "After period"
+msgstr "Nach Zeit"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:34
+msgid "month"
+msgstr "Monat"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:36
+#: admin/tabs/v3/super-unsubscribe/page.php:38
+msgid "months"
+msgstr "Monate"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:40
+msgid "year"
+msgstr "Jahr"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:42
+#: admin/tabs/v3/super-unsubscribe/page.php:44
+msgid "years"
+msgstr "Jahre"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:47
+msgid "Data is automatically deleted after the set time. Ensures the maximum retention time."
+msgstr "Daten werden nach eingestellter Zeit automatisch gelöscht. Stellt die maximale Aufbewahrungszeit sicher."
+
+#: admin/tabs/v3/super-unsubscribe/page.php:113
+msgid "WooCommerce Data"
+msgstr "WooCommerce Daten"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:116
+#: admin/tabs/v3/super-unsubscribe/page.php:127
+#: admin/tabs/v3/super-unsubscribe/page.php:138
+#: admin/tabs/v3/super-unsubscribe/page.php:149
+msgid "No action"
+msgstr "Keine Aktion"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:117
+#: admin/tabs/v3/super-unsubscribe/page.php:128
+#: admin/tabs/v3/super-unsubscribe/page.php:139
+#: admin/tabs/v3/super-unsubscribe/page.php:150
+msgid "Pseudonymise"
+msgstr "Pseudonymisieren"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:120
+msgid "Specifies what should happen to personal data of orders."
+msgstr "Gibt an was mit persönlichen Daten von Bestellungen passieren soll."
+
+#: admin/tabs/v3/super-unsubscribe/page.php:124
+msgid "bbPress Data"
+msgstr "bbPress Daten"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:131
+#: admin/tabs/v3/super-unsubscribe/page.php:142
+msgid "Specifies what should happen with forum entries."
+msgstr "Gibt an was mit Foreneinträge passieren soll."
+
+#: admin/tabs/v3/super-unsubscribe/page.php:135
+msgid "buddyPress Data"
+msgstr "buddyPress Daten"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:146
+msgid "CF7/Flamingo Data"
+msgstr "CF7/Flamingo Daten"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:153
+msgid "Specifies what to do with contact entries and messages."
+msgstr "Gibt an was mit Kontakteinträgen und Nachrichten passieren soll."
+
+#: admin/tabs/v3/super-unsubscribe/page.php:79
+msgid "Attention: The shortcode <code>[unsubscribe_form]</code> that should be on the selected page was not found. Thus, the user has no opportunity to ask a deletion request."
+msgstr "Achtung: Der Shortcode <code>[unsubscribe_form]</code> wurde auf der von ihnen gewählten Seite nicht gefunden. Somit hat der User keine Möglichkeit eine Löschanfrage zu stellen."
+
+#: admin/tabs/v3/super-unsubscribe/page.php:242
+msgid "Pending"
+msgstr "Ausstehend"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:249
+msgid "Done"
+msgstr "Erledigt"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:268
+#: admin/tabs/v3/super-unsubscribe/page.php:304
+#: admin/tabs/v3/super-unsubscribe/page.php:353
+msgid "State"
+msgstr "Status"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:270
+#: admin/tabs/v3/super-unsubscribe/page.php:308
+#: admin/tabs/v3/super-unsubscribe/page.php:314
+#: admin/tabs/v3/super-unsubscribe/page.php:354
+msgid "Delete now"
+msgstr "Jetzt l&ouml;schen"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:334
+msgid "No requests done"
+msgstr "Es wurden noch keine Löschanfragen durchgeführt."
+
+#: admin/tabs/v3/super-unsubscribe/page.php:336
+msgid "No pending requests"
+msgstr "Keine Löschanfragen vorhanden"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:366
+msgid "Delete all"
+msgstr "Alle löschen"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:378
+msgid "ATTENTION: Executing this action deletes the account (except administrators)."
+msgstr "ACHTUNG: Mit Ausführen dieser Aktion wird der Account gelöscht (Administratoren ausgenommen)."
+
+#: admin/tabs/v3/super-unsubscribe/page.php:417
+msgid "Run without user confirmation"
+msgstr "Ohne Benutzerbestätigung ausführen"
+
+#: includes/class-sp-dsgvo-ajax-action.php:91
+msgid "Public property $action not provied"
+msgstr "Eigenschaft $action nicht mitgesendet"
+
+#: includes/class-sp-dsgvo-cron.php:66
+msgid "All"
+msgstr "Alle"
+
+#: includes/class-sp-dsgvo-cron.php:66
+msgid "Minutes"
+msgstr "Minuten"
+
+#: includes/class-sp-dsgvo-data-collecter.php:77
+msgid "Login"
+msgstr "Login"
+
+#: includes/class-sp-dsgvo-data-collecter.php:80
+#: includes/class-sp-dsgvo-data-collecter.php:82
+#: includes/class-sp-dsgvo-data-collecter.php:134
+#: includes/class-sp-dsgvo-data-collecter.php:147
+#: includes/class-sp-dsgvo-data-collecter.php:171
+#: includes/class-sp-dsgvo-data-collecter.php:399
+msgid "Url"
+msgstr "URL"
+
+#: includes/class-sp-dsgvo-data-collecter.php:81
+msgid "Display Name"
+msgstr "Anzeigename"
+
+#: includes/class-sp-dsgvo-data-collecter.php:107
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: includes/class-sp-dsgvo-data-collecter.php:135
+#: includes/class-sp-dsgvo-data-collecter.php:172
+msgid "IP Address"
+msgstr "IP Adresse"
+
+#: includes/class-sp-dsgvo-data-collecter.php:136
+#: includes/class-sp-dsgvo-data-collecter.php:173
+msgid "Comment"
+msgstr "Kommentar"
+
+#: includes/class-sp-dsgvo-data-collecter.php:145
+msgid "User name"
+msgstr "Benutzername"
+
+#: includes/class-sp-dsgvo-data-collecter.php:148
+msgid "Display name"
+msgstr "Anzeigename"
+
+#: includes/class-sp-dsgvo-data-collecter.php:382
+msgid "ZIP Code"
+msgstr "PLZ"
+
+#: includes/class-sp-dsgvo-data-collecter.php:389
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: includes/class-sp-dsgvo-data-collecter.php:407
+msgid "Address"
+msgstr "Adresse"
+
+#: includes/class-sp-dsgvo-mail.php:198 includes/class-sp-dsgvo-mail.php:205
+msgid "Attachment not found at"
+msgstr "Anhang nicht gefunden"
+
+#: includes/class-sp-dsgvo-mail.php:223 includes/class-sp-dsgvo-mail.php:265
+msgid "Template file not found"
+msgstr "Template nicht gefunden"
+
+#: includes/class-sp-dsgvo-mail.php:377
+msgid "You must set at least 1 recipient"
+msgstr "Es muss min. 1 Empfänger angegeben werden."
+
+#: includes/class-sp-dsgvo-mail.php:381
+msgid "You must set a template"
+msgstr "Ein Template muss ausgewählt werden."
+
+#: includes/class-sp-dsgvo-settings.php:66
+msgid "I confirm"
+msgstr "Ich akzeptiere"
+
+#: includes/class-sp-dsgvo-settings.php:67
+msgid "The confirmation to GDPR is mandatory."
+msgstr "Die Checkbox für die Zustimmung zur Speicherung ist nach DSGVO zwingend."
+
+#: includes/class-sp-dsgvo-settings.php:68
+msgid "This form stores your name, email address and content so that we can evaluate the comments on our site. For more information, visit our Privacy Policy page."
+msgstr "Dieses Formular speichert Ihren Namen, Ihre Email Adresse sowie den Inhalt, damit wir die Kommentare auf unsere Seite auswerten können. Weitere Informationen finden Sie auf unserer Seite der Datenschutzbestimmungen."
+
+#: includes/class-sp-dsgvo-settings.php:100
+#: includes/class-sp-dsgvo-settings.php:118
+msgid "I agree to the storage of the data for processing within the meaning of the GDPR."
+msgstr "Ich stimme der Speicherung der Daten zur Verarbeitung im Sinne der DSGVO zu."
+
+#: includes/class-sp-dsgvo-settings.php:132
+msgid "OK"
+msgstr "OK"
+
+#: includes/class-sp-dsgvo-settings.php:136
+msgid "Deny"
+msgstr "Ablehnen"
+
+#: includes/class-sp-dsgvo-settings.php:139
+msgid "More information"
+msgstr "Mehr Information"
+
+#: includes/cron/do-delete-data-request.php:15
+msgid "DoDSGVODeleteDataRequest with days:"
+msgstr "DoDSGVODeleteDataRequest with days:"
+
+#: includes/cron/do-delete-data-request.php:15
+msgid "and intval:"
+msgstr "and intval:"
+
+#: includes/cron/do-delete-data-request.php:20
+msgid "doing sar"
+msgstr "doing sar"
+
+#: includes/cron/do-delete-data-request.php:20
+msgid "with intval"
+msgstr "with intval"
+
+#: includes/cron/do-delete-data-request.php:27
+msgid "sar"
+msgstr "sar"
+
+#: includes/cron/do-delete-data-request.php:27
+msgid "has not the date to process"
+msgstr "has not the date to process"
+
+#: includes/integrations/bbpress/BbpressIntegration.php:114
+#: includes/integrations/bbpress/BbpressIntegration.php:116
+#: includes/integrations/bbpress/BbpressIntegration.php:118
+#: includes/integrations/cf7/Cf7Integration.php:137
+#: includes/integrations/cf7/Cf7Integration.php:139
+msgid "on"
+msgstr "am"
+
+#: includes/integrations/bbpress/BbpressIntegration.php:72
+#: includes/integrations/bbpress/BbpressIntegration.php:73
+#: includes/integrations/buddypress/BuddyPressIntegration.php:62
+#: includes/integrations/buddypress/BuddyPressIntegration.php:63
+#: includes/integrations/buddypress/BuddyPressIntegration.php:69
+#: includes/integrations/cf7/Cf7Integration.php:77
+#: includes/integrations/cf7/Cf7Integration.php:78
+#: includes/integrations/cf7/Cf7Integration.php:79
+msgid "Deleted content"
+msgstr "Gelöschter Inhalt"
+
+#: includes/integrations/bbpress/BbpressIntegration.php:114
+msgid "Forum"
+msgstr "Forum"
+
+#: includes/integrations/bbpress/BbpressIntegration.php:116
+msgid "Forum thread"
+msgstr "Forum Thread"
+
+#: includes/integrations/bbpress/BbpressIntegration.php:118
+msgid "Forum entry"
+msgstr "Forum Eintrag"
+
+#: includes/integrations/buddypress/BuddyPressIntegration.php:103
+msgid "PM between"
+msgstr "PN zwischen"
+
+#: includes/integrations/buddypress/BuddyPressIntegration.php:104
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/integrations/buddypress/BuddyPressIntegration.php:105
+msgid "Message: "
+msgstr "Nachricht: "
+
+#: includes/integrations/buddypress/BuddyPressIntegration.php:121
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/integrations/buddypress/BuddyPressIntegration.php:154
+msgid "Profildaten"
+msgstr "Profildaten"
+
+#: includes/integrations/buddypress/BuddyPressIntegration.php:169
+msgid "Field group"
+msgstr "Feldgruppe"
+
+#: includes/integrations/cf7/Cf7Integration.php:137
+msgid "Contact entry"
+msgstr "Kontakteintrag"
+
+#: includes/integrations/cf7/Cf7Integration.php:139
+#: templates/de_DE/emails/feedback.php:15
+#: templates/de_DE_formal/emails/feedback.php:15
+#: templates/en_EN/emails/feedback.php:15
+#: templates/en_GB/emails/feedback.php:15
+#: templates/en_US/emails/feedback.php:15
+msgid "Message"
+msgstr "Nachricht"
+
+#: includes/integrations/mailchimp/MailchimpAPI.php:41
+msgid "Invalid MailChimp API key"
+msgstr "Ungültiger MailChimp API Key"
+
+#: includes/integrations/mailchimp/MailchimpAPI.php:41
+msgid "supplied."
+msgstr "angegeben"
+
+#: includes/integrations/mailchimp/MailchimpAPI.php:190
+msgid "cURL support is required, but can't be found."
+msgstr "cURL support is required, but can't be found."
+
+#: includes/integrations/mailchimp/MailchimpAPI.php:419
+msgid "Request timed out after"
+msgstr "Request timed out after"
+
+#: includes/integrations/mailchimp/MailchimpAPI.php:419
+msgid "seconds."
+msgstr "seconds."
+
+#: includes/integrations/mailchimp/MailchimpAPI.php:423
+msgid "Unknown error, call getLastResponse() to find out what happened."
+msgstr "Unknown error, call getLastResponse() to find out what happened."
+
+#: includes/integrations/mailchimp/page.php:8
+msgid "Mailchimp API Key"
+msgstr "MailChimp API key"
+
+#: includes/integrations/mailchimp/page.php:12
+msgid "Click here"
+msgstr "Hier klicken"
+
+#: includes/integrations/mailchimp/page.php:13
+msgid "to get an API key"
+msgstr "um einen API Key zu erhalten."
+
+#: includes/integrations/woocommerce/WoocommerceIntegration.php:117
+msgid "Order"
+msgstr "Bestellung"
+
+#: includes/integrations/woocommerce/WoocommerceIntegration.php:117
+msgid "of"
+msgstr "von"
+
+#: includes/integrations/woocommerce/WoocommerceIntegration.php:127
+msgid "Product"
+msgstr "Produkt"
+
+#: includes/models/subject-access-request.php:66
+#: templates/de_DE/emails/subject-access-request.php:21
+#: templates/en_EN/emails/subject-access-request.php:21
+msgid "Subject access request"
+msgstr "Datenauszug"
+
+#: includes/models/subject-access-request.php:203
+#: includes/models/subject-access-request.php:204
+#: includes/models/subject-access-request.php:206
+msgid "All data of"
+msgstr "Alle Daten zu"
+
+#: includes/models/subject-access-request.php:206
+msgid "Date"
+msgstr "Datum"
+
+#: includes/models/subject-access-request.php:206
+msgid "Source"
+msgstr "Quelle"
+
+#: admin/tabs/v3/super-unsubscribe/page.php:190
+#: includes/models/unsubscriber.php:111
+msgid "Confirmation of delete request"
+msgstr "Bestätigung der Datenlöschung"
+
+#: admin/tabs/v3/subject-access-request/page.php:188
+#: admin/tabs/v3/super-unsubscribe/page.php:301
+#: public/class-sp-dsgvo-public.php:714 public/class-sp-dsgvo-public.php:824
+#: public/class-sp-dsgvo-public.php:868
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/tabs/v3/subject-access-request/page.php:188
+#: admin/tabs/v3/super-unsubscribe/page.php:301
+#: includes/integrations/statistics/googleanalytics/page.php:48
+#: includes/integrations/statistics/hotjar/page.php:45
+#: includes/integrations/statistics/matomo/page.php:65
+#: includes/integrations/targeting/bingadsuet/page.php:46
+#: includes/integrations/targeting/criteo/page.php:45
+#: includes/integrations/targeting/fbpixel/page.php:45
+#: includes/integrations/targeting/gadsense/page.php:43
+#: includes/integrations/targeting/linkedinpixel/page.php:45
+#: public/class-sp-dsgvo-public.php:714 public/class-sp-dsgvo-public.php:824
+#: public/class-sp-dsgvo-public.php:868
+msgid "No"
+msgstr "Nein"
+
+#: public/class-sp-dsgvo-public.php:815
+msgid "Service"
+msgstr "Dienst"
+
+#: public/shortcodes/subject-access-request/download-subject-access-request.php:11
+#: public/shortcodes/super-unsubscribe/unsubscribe-confirm-action.php:10
+msgid "No token provided."
+msgstr "Kein Token vorhanden"
+
+#: public/shortcodes/subject-access-request/download-subject-access-request.php:19
+msgid "Bad token provided."
+msgstr "Fehlerhaftes Token"
+
+#: public/shortcodes/subject-access-request/download-subject-access-request.php:71
+msgid "Error"
+msgstr "Fehler"
+
+#: public/shortcodes/subject-access-request/subject-access-request-action.php:18
+#: public/shortcodes/super-unsubscribe/unsubscribe-form-action.php:18
+msgid "The GDPR approval is mandatory."
+msgstr "Die DSGVO Zustimmung ist zwingend."
+
+#: public/shortcodes/subject-access-request/subject-access-request-action.php:34
+msgid "New subject access request"
+msgstr "Neue Anfrage zum Datenauszug"
+
+#: public/shortcodes/subject-access-request/subject-access-request-action.php:35
+#: public/shortcodes/super-unsubscribe/unsubscribe-form-action.php:36
+msgid "A new subject access request from "
+msgstr "Es ist eine neue Anfrage zu einem Datenauszug von "
+
+#: public/shortcodes/subject-access-request/subject-access-request.php:18
+msgid "Your request has been created"
+msgstr "Ihr Antrag wurde eingereicht."
+
+#: public/shortcodes/subject-access-request/subject-access-request.php:18
+msgid "You will receive an email from us with a current extract of your data stored with us."
+msgstr "Sie erhalten eine Email von uns mit einem aktuellen Auszug Ihrer bei uns gespeicherten Daten."
+
+#: public/shortcodes/subject-access-request/subject-access-request.php:75
+msgid "Create request"
+msgstr "Anfrage absenden"
+
+#: public/shortcodes/super-unsubscribe/unsubscribe-confirm-action.php:18
+msgid "Bad token provided"
+msgstr "Bad token provided."
+
+#: public/shortcodes/super-unsubscribe/unsubscribe-form-action.php:14
+msgid "Please enter an email address."
+msgstr "Bitte eine Email Adresse angeben."
+
+#: public/shortcodes/super-unsubscribe/unsubscribe-form-action.php:35
+msgid "New delete request"
+msgstr "Neue Löschanfrage"
+
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:19
+msgid "Request sent successfully. You will receive an email in a few minutes."
+msgstr "Anfrage erfolgreich gesendet. Sie erhalten in wenigen Minuten eine Email."
+
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:23
+msgid "Request successfully completed. Your data has been completely deleted."
+msgstr "Anfrage erfolgreich abgeschlossen. Ihre Daten wurden vollständig gelöscht."
+
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:77
+msgid "Create delete request"
+msgstr "Löschanfrage senden"
+
+#: templates/de_DE/emails/feedback.php:1
+#: templates/de_DE_formal/emails/feedback.php:1
+#: templates/en_EN/emails/feedback.php:1 templates/en_GB/emails/feedback.php:1
+#: templates/en_US/emails/feedback.php:1
+msgid "WP DSGVO Tools Feedback"
+msgstr "WP DSGVO Tools Feedback"
+
+#: templates/de_DE/emails/feedback.php:4
+#: templates/de_DE_formal/emails/feedback.php:4
+#: templates/en_EN/emails/feedback.php:4 templates/en_GB/emails/feedback.php:4
+#: templates/en_US/emails/feedback.php:4
+msgid "From"
+msgstr "Von"
+
+#: templates/de_DE/emails/subject-access-request.php:51
+#: templates/de_DE_formal/emails/subject-access-request.php:51
+#: templates/en_EN/emails/subject-access-request.php:51
+#: templates/en_GB/emails/subject-access-request.php:51
+#: templates/en_US/emails/subject-access-request.php:51
+msgid "Here you see a summary about this data"
+msgstr "Hier ist ein &Uuml;berblick welche Daten gefunden wurden:"
+
+#: templates/de_DE/emails/subject-access-request.php:54
+#: templates/de_DE_formal/emails/subject-access-request.php:54
+#: templates/en_EN/emails/subject-access-request.php:54
+#: templates/en_GB/emails/subject-access-request.php:54
+#: templates/en_US/emails/subject-access-request.php:54
+msgid "Download your archive"
+msgstr "Archiv runterladen"
+
+#: templates/de_DE/emails/subject-access-request.php:56
+#: templates/de_DE_formal/emails/subject-access-request.php:56
+#: templates/en_EN/emails/subject-access-request.php:56
+#: templates/en_GB/emails/subject-access-request.php:56
+#: templates/en_US/emails/subject-access-request.php:56
+msgid "Following this link you can download a PDF and a JSON file dump of your data."
+msgstr "Sie k&ouml;nnen auch einen vollst&auml;ndiges Auszug Ihres Archives als PDF und ein JSON dump herunterladen."
+
+#: templates/de_DE/emails/subject-access-request.php:58
+#: templates/de_DE_formal/emails/subject-access-request.php:58
+#: templates/en_EN/emails/subject-access-request.php:58
+#: templates/en_GB/emails/subject-access-request.php:58
+#: templates/en_US/emails/subject-access-request.php:58
+msgid "Download archive"
+msgstr "Archiv jetzt runterladen"
+
+#: templates/de_DE/emails/subject-access-request.php:94
+#: templates/de_DE/emails/super-unsubscribe.php:87
+#: templates/de_DE_formal/emails/subject-access-request.php:98
+#: templates/de_DE_formal/emails/super-unsubscribe.php:87
+#: templates/en_EN/emails/subject-access-request.php:98
+#: templates/en_EN/emails/super-unsubscribe.php:87
+#: templates/en_GB/emails/subject-access-request.php:98
+#: templates/en_GB/emails/super-unsubscribe.php:87
+#: templates/en_US/emails/subject-access-request.php:98
+#: templates/en_US/emails/super-unsubscribe.php:87
+msgid "Sent from"
+msgstr "Gesendet von"
+
+#: templates/de_DE/emails/subject-access-request.php:98
+#: templates/de_DE/emails/super-unsubscribe.php:91
+#: templates/de_DE_formal/emails/subject-access-request.php:102
+#: templates/de_DE_formal/emails/super-unsubscribe.php:91
+#: templates/en_EN/emails/subject-access-request.php:102
+#: templates/en_EN/emails/super-unsubscribe.php:91
+#: templates/en_GB/emails/subject-access-request.php:102
+#: templates/en_GB/emails/super-unsubscribe.php:91
+#: templates/en_US/emails/subject-access-request.php:102
+#: templates/en_US/emails/super-unsubscribe.php:91
+msgid "Contact"
+msgstr "Kontakt"
+
+#: templates/de_DE/emails/super-unsubscribe.php:47
+#: templates/de_DE_formal/emails/super-unsubscribe.php:47
+#: templates/en_EN/emails/super-unsubscribe.php:47
+#: templates/en_GB/emails/super-unsubscribe.php:47
+#: templates/en_US/emails/super-unsubscribe.php:47
+msgid "We have received your delete request."
+msgstr "Wir haben soeben Ihre Anfrage zur Datenl&ouml;schung erhalten."
+
+#: templates/de_DE/emails/super-unsubscribe.php:48
+#: templates/de_DE_formal/emails/super-unsubscribe.php:48
+#: templates/en_EN/emails/super-unsubscribe.php:48
+#: templates/en_GB/emails/super-unsubscribe.php:48
+#: templates/en_US/emails/super-unsubscribe.php:48
+msgid ""
+"If you confirm the following link, all your data stored at\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t{{website}} gets deleted."
+msgstr "Wenn Sie auf die &quot;Best&auml;tige Datenl&ouml;schung&quot; Schaltfl&auml;che klicken werden all Ihre pers&ouml;nlichen Daten von {{website}} gel&ouml;scht."
+
+#: templates/de_DE/emails/super-unsubscribe.php:53
+#: templates/de_DE_formal/emails/super-unsubscribe.php:53
+#: templates/en_EN/emails/super-unsubscribe.php:53
+#: templates/en_GB/emails/super-unsubscribe.php:53
+#: templates/en_US/emails/super-unsubscribe.php:53
+msgid "Confirm Delete"
+msgstr "Löschung bestätigen"
+
+#: templates/de_DE/emails/super-unsubscribe.php:55
+#: templates/de_DE_formal/emails/super-unsubscribe.php:55
+#: templates/en_EN/emails/super-unsubscribe.php:55
+#: templates/en_GB/emails/super-unsubscribe.php:55
+#: templates/en_US/emails/super-unsubscribe.php:55
+msgid "If you don't want do delete your data just ignore this email."
+msgstr "Wenn Sie dies nicht durchf&uuml;hren m&ouml;chten, k&ouml;nnen Sie dieses E-Mail ignorieren."
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:51
+#: admin/tabs/v3/common-settings/page.php:188
+#: includes/class-sp-dsgvo-settings.php:189
+msgid "Privacy Policy"
+msgstr "Datenschutzerklärung"
+
+#: admin/tabs/v3/operator/page.php:181 admin/tabs/v3/operator/page.php:364
+#: admin/tabs/v3/operator/page.php:490
+msgid "Street"
+msgstr "Straße"
+
+#: admin/tabs/v3/operator/page.php:350
+msgid "Company name"
+msgstr "Name des Unternehmens"
+
+#: admin/tabs/v3/page-basics/page.php:199
+msgid "Fonts"
+msgstr "Schriften"
+
+#: public/class-sp-dsgvo-public.php:757 public/class-sp-dsgvo-public.php:783
+msgid "Ok"
+msgstr "Ok"
+
+#: public/shortcodes/privacy-policy.php:93
+#: public/shortcodes/privacy-policy.php:102
+#: public/shortcodes/privacy-policy.php:125
+#: public/shortcodes/privacy-policy.php:133
+msgid "Email:"
+msgstr "E-Mail-Adresse:"
+
+#: admin/tabs/v3/operator/page.php:211 admin/tabs/v3/operator/page.php:336
+#: admin/tabs/v3/operator/page.php:403 admin/tabs/v3/operator/page.php:461
+#: admin/tabs/v3/operator/page.php:529
+#: admin/tabs/v3/subject-access-request/page.php:155
+#: admin/tabs/v3/subject-access-request/page.php:218
+#: admin/tabs/v3/subject-access-request/page.php:255
+#: admin/tabs/v3/super-unsubscribe/page.php:260
+#: admin/tabs/v3/super-unsubscribe/page.php:288
+#: admin/tabs/v3/super-unsubscribe/page.php:348
+#: admin/tabs/v3/super-unsubscribe/page.php:389
+#: includes/class-sp-dsgvo-data-collecter.php:79
+#: includes/class-sp-dsgvo-data-collecter.php:133
+#: includes/class-sp-dsgvo-data-collecter.php:170
+#: includes/class-sp-dsgvo-data-collecter.php:376
+#: public/shortcodes/imprint.php:75
+#: public/shortcodes/subject-access-request/subject-access-request.php:46
+#: public/shortcodes/subject-access-request/subject-access-request.php:49
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:51
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:54
+msgid "Email"
+msgstr "E-Mail-Adresse"
+
+#: admin/tabs/v3/operator/page.php:266 public/shortcodes/imprint.php:125
+msgid "Responsible for content"
+msgstr "Verantwortlich für den Inhalt"
+
+#: admin/tabs/v3/operator/page.php:268
+msgid "The person who is responsible for the content of this website."
+msgstr "Die Person, die für den Inhalt auf dieser Website verantwortlich ist."
+
+#: public/shortcodes/subject-access-request/subject-access-request-action.php:14
+msgid "Please enter an email address"
+msgstr "Bitte gib eine E-Mail-Adresse ein"

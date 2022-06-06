@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "kulturhilfe-iconfont";
+  src:url("fonts/kulturhilfe-iconfont.eot");
+  src:url("fonts/kulturhilfe-iconfont.eot?#iefix") format("embedded-opentype"),
+    url("fonts/kulturhilfe-iconfont.woff") format("woff"),
+    url("fonts/kulturhilfe-iconfont.ttf") format("truetype"),
+    url("fonts/kulturhilfe-iconfont.svg#kulturhilfe-iconfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "kulturhilfe-iconfont" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "kulturhilfe-iconfont" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-link:before {
+  content: "\62";
+}
+.icon-scale:before {
+  content: "\73";
+}
